@@ -6,7 +6,7 @@ using UnityEngine.UI;
 
 public class DestroyObjects : MonoBehaviour
 {
-    public string targetTag; // ָ���� Tag ����
+    public string targetTag;
 
     private void Start()
     {
